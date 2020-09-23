@@ -1,16 +1,11 @@
-### Hi there 👋
+<a href="https://wheatup.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=wheatup&column=7&theme=onedark"/>
+    </p>
+</a>
 
-<!--
-**wheatup/wheatup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a align="center" href="https://wheatup.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=wheatup&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheatup&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
