@@ -24,27 +24,20 @@
 
 ---
 
-<div align="center">
-<figure style="display: inline-block;">
-	<a style="display: block;" target="_blank" href="https://stackexchange.com/users/14243549">
-		<img src="https://stackexchange.com/users/flair/14243549.png" width="208" height="58" alt="profile for Hao Wu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hao Wu on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-	</a>
-	<figcaption>StackOverflow</figcaption>
-</figure>
+### StackOverflow
 
+<a style="display: block;" target="_blank" href="https://stackexchange.com/users/14243549">
+	<img src="https://stackexchange.com/users/flair/14243549.png" width="208" height="58" alt="profile for Hao Wu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hao Wu on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+</a>
 
-<figure style="display: inline-block;">
-	<a style="display: block;" target="_blank" href="https://codepen.io/wheatup"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on CodePen"></a>
-	<figcaption>CodePen</figcaption>
-</figure>
+### CodePen
 
-<figure style="display: inline-block;">
-	<a style="display: block;" target="_blank" href="https://www.npmjs.com/~wheatup"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on NPM"></a>
-	<figcaption>Npm</figcaption>
-</figure>
+<a style="display: block;" target="_blank" href="https://codepen.io/wheatup"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on CodePen"></a>
 
-<figure style="display: inline-block;">
-	<a style="display: block;" target="_blank" href="https://wheatup.itch.io/"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on itch.io"></a>
-	<figcaption>Itch.io</figcaption>
-</figure>
-</div>
+### Npm
+
+<a style="display: block;" target="_blank" href="https://www.npmjs.com/~wheatup"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on NPM"></a>
+
+### Itch.io
+
+<a style="display: block;" target="_blank" href="https://wheatup.itch.io/"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on itch.io"></a>
