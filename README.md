@@ -19,3 +19,32 @@
     <img src="https://github-readme-stats.vercel.app/api?username=wheatup&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheatup&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
+
+<h3 align="center">FOOTPRINTS</h3>
+
+---
+
+<div align="center">
+<figure style="display: inline-block;">
+	<a target="_blank" href="https://stackexchange.com/users/14243549">
+		<img src="https://stackexchange.com/users/flair/14243549.png" width="208" height="58" alt="profile for Hao Wu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hao Wu on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+	</a>
+	<figcaption>StackOverflow</figcaption>
+</figure>
+
+
+<figure style="display: inline-block;">
+	<a target="_blank" href="https://codepen.io/wheatup"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on CodePen"></a>
+	<figcaption>CodePen</figcaption>
+</figure>
+
+<figure style="display: inline-block;">
+	<a target="_blank" href="https://www.npmjs.com/~wheatup"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on NPM"></a>
+	<figcaption>Npm</figcaption>
+</figure>
+
+<figure style="display: inline-block;">
+	<a target="_blank" href="https://wheatup.itch.io/"><img src="https://gravatar.com/avatar/063da055fad73ac0d23019d956b8cd38?d=https%3A%2F%2Fassets.codepen.io%2Finternal%2Favatars%2Fusers%2Fdefault.png&fit=crop&format=auto&height=512&version=0&width=512" alt="wheatup on itch.io"></a>
+	<figcaption>Itch.io</figcaption>
+</figure>
+</div>
